@@ -6,5 +6,5 @@ I build this for my personal use.
 
 ### Admin Interaction
 **Admin functionality:**
-- Admin can change prodile.S
+- Admin can change profile.
 
